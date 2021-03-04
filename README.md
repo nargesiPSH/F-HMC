@@ -3,3 +3,5 @@ Implementation of folded Folded Hamiltonian Monte Carlo for data imputation and 
 
 To have access to the full dataset please contact = chris[dot]miaskowski[at]ucsf[dot]edu
 Any query or quetsion about the details of code and implementation Please email me at n[dot]poursharokhi[at]surrey[dot]ac[dot]uk
+
+doi:10.5281/zenodo.4580970
